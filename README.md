@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natprest
 - 👀 I’m interested in coffee
-- 🌱 I’m currently learning HTML, CSS
+- 🌱 I’m currently learning CS
 
 <!---
 natprest/natprest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
